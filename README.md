@@ -4,4 +4,5 @@
 
 # Repository: fix-project
 
-# 1. Data Structure (Search Auto Completed)
+# Data Structure (Search Auto Completed)
+
